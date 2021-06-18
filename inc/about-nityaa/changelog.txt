@@ -1,0 +1,16 @@
+== Change log ==
+
+= 1.0.4 - Feb 22 2020 =
+* Fixed issue in language translation file and changed author url
+
+= 1.0.3 - Feb 20 2020 =
+* Fixed issue in navwalker
+
+= 1.0.2 =
+* Certain CSS and Theme Option Changed
+
+= 1.0.1 =
+* Screenshot image changed
+
+= 1.0.0 =
+* Initial release

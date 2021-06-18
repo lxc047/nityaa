@@ -1,0 +1,483 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-22 17:36+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:57
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: functions.php:117
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:119
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:127
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:129
+msgid "Add widget here. This is used for first footer item."
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:139
+msgid "Add widget here. This is used for second footer item."
+msgstr ""
+
+#: functions.php:147
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:149
+msgid "Add widget here. This is used for third footer item."
+msgstr ""
+
+#: functions.php:157
+msgid "Footer Four"
+msgstr ""
+
+#: functions.php:159
+msgid "Add widget here. This is used for fourth footer item."
+msgstr ""
+
+#: functions.php:181
+msgctxt "Muli"
+msgid "on"
+msgstr ""
+
+#: functions.php:311
+msgid "Thank you for choosing Nityaa ! Now you can visit our welcome page."
+msgstr ""
+
+#: functions.php:312
+msgid "Get Started with Nityaa"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Site title/Tagline/Logo"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:99 template-parts/content-page.php:33
+msgid "Edit"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:9
+msgid "About nityaa"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:52
+msgid "Installed"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:58
+msgid "Install Now"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:98
+msgid "Welcome to Nityaa !"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:100
+msgid ""
+"Nityaa is fast & beautiful WordPress theme suitable for blog, personal "
+"portfolio website and business website. It works perfectly with elementor "
+"page builder so you can use elementor builder in this theme. This theme is "
+"fully responsive and translation ready. Nityaa is fast, fully customizable "
+"and you can use for building any kind of website."
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:108
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:111
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:115
+msgid "Support"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:127
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:130
+msgid ""
+"We recommend you to open the Theme Customizer and add the content with "
+"available options."
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:132
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:140
+msgid ""
+"You can use the recommended plugins that are styled to fit the theme design."
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:146
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:146
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup. "
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:156 inc/about-nityaa/about-nityaa.php:164
+msgid "Contact Support"
+msgstr ""
+
+#: inc/about-nityaa/about-nityaa.php:160
+msgid ""
+"If you have any problem, feel free to contact us through our online chat "
+"system or you can email us at any time."
+msgstr ""
+
+#: inc/customizer/control.php:31
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/customizer/default.php:55
+msgid "Copyright 2020. All rights reserved"
+msgstr ""
+
+#: inc/customizer/options.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/options.php:23
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/options.php:40
+msgid "Enable top header"
+msgstr ""
+
+#: inc/customizer/options.php:58
+msgid "Header Phone Number"
+msgstr ""
+
+#: inc/customizer/options.php:76
+msgid "Header Email"
+msgstr ""
+
+#: inc/customizer/options.php:95
+msgid "Enable sticky header"
+msgstr ""
+
+#: inc/customizer/options.php:108 inc/customizer/options.php:189
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/options.php:125
+msgid "Enable slider OR banner image"
+msgstr ""
+
+#: inc/customizer/options.php:144
+msgid "Display excerpt"
+msgstr ""
+
+#: inc/customizer/options.php:164
+msgid "Display read button"
+msgstr ""
+
+#: inc/customizer/options.php:184
+msgid "Select slider type"
+msgstr ""
+
+#: inc/customizer/options.php:190 inc/customizer/options.php:231
+msgid "Banner image"
+msgstr ""
+
+#: inc/customizer/options.php:210
+msgid "Category for slider"
+msgstr ""
+
+#: inc/customizer/options.php:211
+msgid "Posts of selected category will be used as sliders"
+msgstr ""
+
+#: inc/customizer/options.php:232
+msgid "Enter the ID of post to use as a banner image."
+msgstr ""
+
+#: inc/customizer/options.php:246
+msgid "Home Sections"
+msgstr ""
+
+#: inc/customizer/options.php:263
+msgid "Show home content"
+msgstr ""
+
+#: inc/customizer/options.php:264
+msgid "Check this box to show page content in home page"
+msgstr ""
+
+#: inc/customizer/options.php:283
+msgid "About us"
+msgstr ""
+
+#: inc/customizer/options.php:284 inc/customizer/options.php:306
+#: inc/customizer/options.php:328 inc/customizer/options.php:350
+msgid "Leave blank to hide this section"
+msgstr ""
+
+#: inc/customizer/options.php:305
+msgid "Our services"
+msgstr ""
+
+#: inc/customizer/options.php:327
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer/options.php:349
+msgid "Our Clients"
+msgstr ""
+
+#: inc/customizer/options.php:370
+msgid "Enable social media"
+msgstr ""
+
+#: inc/customizer/options.php:381
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/options.php:396
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/options.php:400
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/options.php:404
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/options.php:408
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/options.php:412
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/options.php:416
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/options.php:420
+msgid "vimeo"
+msgstr ""
+
+#: inc/customizer/options.php:424
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/options.php:428
+msgid "Behance"
+msgstr ""
+
+#: inc/customizer/options.php:432
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/options.php:436
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/options.php:440
+msgid "Github"
+msgstr ""
+
+#: inc/customizer/options.php:462
+msgid "General Setting"
+msgstr ""
+
+#: inc/customizer/options.php:478
+msgid "Page layout"
+msgstr ""
+
+#: inc/customizer/options.php:483
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer/options.php:484
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer/options.php:485
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/options.php:502
+msgid "Enable post date"
+msgstr ""
+
+#: inc/customizer/options.php:521
+msgid "Enable post author"
+msgstr ""
+
+#: inc/customizer/options.php:540
+msgid "Enable post meta"
+msgstr ""
+
+#: inc/customizer/options.php:553
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/options.php:570
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer/options.php:589
+msgid "Enable scroll to top"
+msgstr ""
+
+#: inc/hooks/home-content.php:92 inc/hooks/home-content.php:148
+#: inc/hooks/home-content.php:229 inc/hooks/home-content.php:301
+msgid "Read More"
+msgstr ""
+
+#: inc/hooks/page-header.php:52
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Get started here."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:41
+msgid "Continue reading"
+msgstr ""
